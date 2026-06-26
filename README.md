@@ -1,5 +1,7 @@
 # FletAppShell app
 
+![](/src/assets/screenshots/screenshot.png)
+
 ## To Create a new app
 
 ```bash
